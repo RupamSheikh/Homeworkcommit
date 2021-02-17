@@ -6,6 +6,12 @@ public class PracticeOne {
         int y = 6;
         int sum = x + y;
         System.out.println(sum);
+
+        int a=10;
+        double b=10.5;
+        char c='H';
+        boolean d= false;
+        String h="welcome";
     }
 
 }
