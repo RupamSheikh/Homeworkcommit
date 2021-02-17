@@ -12,6 +12,12 @@ public class PracticeOne {
         char c='H';
         boolean d= false;
         String h="welcome";
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(h);
     }
 
 }
